@@ -1,0 +1,5 @@
+{
+  "name": "epsilon-range",
+  "version": "1.0.0",
+  "description": "Utility for determining if a number belongs to a range"
+}
