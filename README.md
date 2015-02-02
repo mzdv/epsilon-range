@@ -21,3 +21,7 @@ Does a weak comparison to check if the value x is in the range (using >= and <=)
 epsilon.applyStrict(x)
 ----------------------
 Does a strict comparison to check if the value x is in the range (using > and <)
+
+License
+-------
+MIT

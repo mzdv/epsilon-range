@@ -2,7 +2,7 @@
  * Created by Milos on 13.1.2015..
  */
 
-var range = require("./epsilon-range");
+var range = require("./lib/epsilon-range");
 
 var epsilon = new range(3,5);
 

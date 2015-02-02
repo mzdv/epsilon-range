@@ -1,5 +1,11 @@
 {
   "name": "epsilon-range",
   "version": "1.0.0",
-  "description": "Utility for determining if a number belongs to a range"
+  "description": "Utility for determining if a number belongs to a range",
+  "author": "Milos Zivadinovic <mzdv@outlook.com>",
+  "main": "lib/epsilon-range.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mzdv/epsilon-range"
+  }
 }
