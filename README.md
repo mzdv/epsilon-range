@@ -1,6 +1,6 @@
 epsilon-range
 =============
-Utility for determining if a number belongs to a range.
+Utility for determining if a number, integer or float, belongs to a range.
 
 `npm install epsilon-range`
 
