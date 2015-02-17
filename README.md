@@ -8,7 +8,7 @@ Utility for determining if a number, integer or float, belongs to a range.
 
 Usage
 -----
-`var range = require("./epsilon-range");`
+`var range = require("epsilon-range");`
 
 `var epsilon = new range(3,5); //first parameter is the lower value, and the second one is the upper value`
 
